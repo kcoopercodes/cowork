@@ -29,3 +29,4 @@ npm run build
 
 The project includes Vercel configuration and can be deployed as a Vite application. Configure the deployment project to run `npm run build` and serve the generated `dist` directory.
 # cowork
+# cowork
